@@ -12,6 +12,8 @@ git blame -L3       #shows all lines from line3 to finish line not just line3
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
 
+newline 
+
 # List of people who know git
 - [Ashkan Shakiba :sunglasses::sparkles:](https://github.com/AshkanShakiba)
 - [fateme barbod✔😊](https://github.com/fatemebarbod)
